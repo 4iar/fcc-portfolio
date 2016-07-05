@@ -30,7 +30,28 @@
 
   // positioning
   margin-top: 3vh;
+  margin-bottom: 5vh;
   text-align: center;
   line-height: 1.5em;
 }
 
+#navbar {
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  display: flex;
+}
+
+#navbar a {
+  // typography
+  font-family: 'Cabin', sans-serif;
+  font-weight: 500;
+  font-size: 100%;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+
+  color: #666666;
+
+  margin-left: 3%;
+  margin-right: 3%;
+}
