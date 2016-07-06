@@ -40,6 +40,8 @@
   width: 100%;
   text-align: center;
   display: flex;
+
+  margin-bottom: 4vh;
 }
 
 #navbar a {
@@ -54,4 +56,19 @@
 
   margin-left: 3%;
   margin-right: 3%;
+}
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 500;
+  font-size: 200%;
+  letter-spacing: 0.06em;
+
+  color: black;
+
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
 }
