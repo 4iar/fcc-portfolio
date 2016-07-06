@@ -67,8 +67,30 @@ h2 {
   color: black;
 
   text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
 p {
   font-size: 1.2em;
+}
+
+.project {
+  margin-top: 2em;
+}
+
+.project h2 {
+  margin-bottom: 0;
+}
+
+.project h4 {
+  font-weight: 700;
+}
+
+.project i {
+  font-size: 2em;
+}
+
+.project p {
+  text-align: justify;
 }
