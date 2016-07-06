@@ -1,6 +1,10 @@
 #content {
 }
 
+a:link {
+  color: black;
+}
+
 #name-main {
   // typography
   font-family: 'Cabin', sans-serif;
@@ -24,7 +28,6 @@
   font-size: 100%;
   letter-spacing: 0.7em;
   text-transform: uppercase;
-
 
   color: #CCCCCC;
 
@@ -67,7 +70,7 @@ h2 {
   color: black;
 
   text-align: center;
-  margin-top: 2em;
+  margin-top: 3em;
   margin-bottom: 1em;
 }
 
@@ -93,4 +96,21 @@ p {
 
 .project p {
   text-align: justify;
+}
+
+#contact {
+  text-align: center;
+}
+
+#contact h3 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#contact i {
+  color: black;
+}
+
+#contact .social {
+  font-size: 2em;
 }
